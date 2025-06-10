@@ -13,7 +13,7 @@ import {
   scale,
   verticalScale,
 } from 'react-native-size-matters';
-// import { COLORS, FONTS } from '../../utils/Colors';
+
 
  const COLORS = {
     background: "#ffffff",
